@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie framerate="100">
+	<background color="#ffffff"/>
+	<frame>
+		<library>
+		</library>
+	</frame>
+</movie>
